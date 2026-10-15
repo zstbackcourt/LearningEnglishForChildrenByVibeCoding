@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+
+/server
+/backend/server
+/frontend/node_modules/
+/frontend/dist/
+*.tsbuildinfo
